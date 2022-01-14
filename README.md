@@ -1,4 +1,4 @@
-# COMPUTERS DATASET-THE EFFECTS OF SPECS ON COMPUTER PRICES- BAYESIAN INFERENCE
+# Computers dataset- The effects of specs on computer prices- Bayesian inference
 
 The dataset is about computer prices, and relevant specs: hard drive, RAM, screen, CD-ROM, manufacturer, etc
 
